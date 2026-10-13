@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙学 × 黄毛学 · 访谈行动助手"
+  short_description: "把访谈心法转为计划、真实记录、小实验与复盘，支持有连接的Notion和提供的健康资料。"
+  default_prompt: "用 $alan-sun-action-system 结合我的目标、时间和已有记录，给出一个可检验的行动并说明所用心法。"
